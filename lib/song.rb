@@ -8,6 +8,8 @@ class Song
     @@count += l
   end
   
+  def self.count
+    
   
   
   
